@@ -134,7 +134,7 @@ const hashedPassword = await bcrypt.hash('your_password', 10);
 
 ## Author
 
-**Your Name**
+**Ebenezer Kwesi Arthur**
 
 ---
 
